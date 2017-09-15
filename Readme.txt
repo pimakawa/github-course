@@ -1,5 +1,6 @@
 teste do Git
 alteraçao do arquivo para teste do Git
-Mais uma versão para commit
+Tirei uma linha
 Treinar os comandos
 Teste para desfazer a alteracao
+Teste para visualizar as alteracoes

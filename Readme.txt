@@ -5,3 +5,4 @@ Treinar os comandos
 Teste para desfazer a alteracao
 Teste para visualizar as alteracoes
 Atualizar o repositorio
+Alteração!
